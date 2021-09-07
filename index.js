@@ -1,1 +1,2 @@
-console.log('Test!');
+const randomColor = require('randomcolor');
+console.log(randomColor());

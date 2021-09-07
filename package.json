@@ -5,7 +5,9 @@
   "repository": "https://github.com/philippbinder/Random-Color-Generator.git",
   "author": "Philipp Binder <binder.philipp10@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  },
   "devDependencies": {
     "@next/eslint-plugin-next": "11.0.0",
     "@types/node": "16.0.0",
